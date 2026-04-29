@@ -11,7 +11,9 @@
 ### 👨‍💻 About Me
 
 📍 **Location:** Fergana, Kokand, Uzbekistan 🇺🇿
+
 🏗️ **Current Stack:** C# & .NET Framework
+
 🎯 **Main Goal:** Mastering C# to a professional level & building powerful Backend systems
 
 
